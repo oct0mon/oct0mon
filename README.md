@@ -18,4 +18,4 @@
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oct0mon&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oct0mon&show_icons=true&theme=radical)
